@@ -1,0 +1,1 @@
+ C:\\Users\\Smit\ Vaghasiya\\Desktop\\jewelifyapp\\.dart_tool\\flutter_build\\ae572350665688c852d0a037f2964ad8\\native_assets.json: 
